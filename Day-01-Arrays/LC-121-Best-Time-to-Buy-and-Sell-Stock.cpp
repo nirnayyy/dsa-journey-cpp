@@ -4,7 +4,10 @@ Day 1 - Arrays
 Time: O(n)
 Space: O(1)
 */
-
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+using namespace std;
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
