@@ -1,161 +1,161 @@
 # DSA Journey C++
 
-This repository contains C++ solutions for daily data structures and algorithms practice following the official 50-day plan.
+This repository contains my solutions and notes for a structured **50-Day Data Structures & Algorithms Challenge in C++**.
 
-# 50 Days DSA Challenge 🚀
+## 🚀 Challenge Overview
 
-- Started: 1 June 2026
-- Language: C++
+* **Started:** 1 June 2026
+* **Language:** C++
+* **Current Day:** 2/50
+* **Problems Solved:** 6
 
-Goal:
-- Solve DSA daily
-- Learn patterns
-- Build consistency
-- Prepare for interviews
+### Goals
 
-Progress:
+* Solve DSA problems daily
+* Learn fundamental problem-solving patterns
+* Build coding consistency
+* Strengthen interview preparation
+* Document my learning journey publicly
 
-✅ Day 1 - Arrays
-⬜ Day 2
-⬜ Day 3
-⬜ Day 4
-⬜ Day 5
-⬜ Day 6
-⬜ Day 7
-⬜ Day 8
-⬜ Day 9
-⬜ Day 10
-⬜ Day 11
-⬜ Day 12
-⬜ Day 13
-⬜ Day 14
-⬜ Day 15
-⬜ Day 16
-⬜ Day 17
-⬜ Day 18
-⬜ Day 19
-⬜ Day 20
-⬜ Day 21
-⬜ Day 22
-⬜ Day 23
-⬜ Day 24
-⬜ Day 25
-⬜ Day 26
-⬜ Day 27
-⬜ Day 28
-⬜ Day 29
-⬜ Day 30
-⬜ Day 31
-⬜ Day 32
-⬜ Day 33
-⬜ Day 34
-⬜ Day 35
-⬜ Day 36
-⬜ Day 37
-⬜ Day 38
-⬜ Day 39
-⬜ Day 40
-⬜ Day 41
-⬜ Day 42
-⬜ Day 43
-⬜ Day 44
-⬜ Day 45
-⬜ Day 46
-⬜ Day 47
-⬜ Day 48
-⬜ Day 49
-⬜ Day 50
+---
 
-## 50-Day DSA Plan
+## 📈 Progress Tracker
+
+* [x] Day 01 - Arrays
+* [x] Day 02 - Arrays
+* [ ] Day 03 - Strings
+* [ ] Day 04 - Strings
+* [ ] Day 05 - Hash Maps
+* [ ] Day 06 - Hash Maps
+* [ ] Day 07 - Two Pointers
+* [ ] Day 08 - Two Pointers
+* [ ] Day 09 - Sliding Window
+* [ ] Day 10 - Sliding Window
+* [ ] Day 11 - Stack
+* [ ] Day 12 - Stack
+* [ ] Day 13 - Queue & Deque
+* [ ] Day 14 - Queue & Deque
+* [ ] Day 15 - Linked List
+* [ ] Day 16 - Linked List
+* [ ] Day 17 - Linked List
+* [ ] Day 18 - Recursion
+* [ ] Day 19 - Recursion
+* [ ] Day 20 - Binary Search
+* [ ] Day 21 - Binary Search
+* [ ] Day 22 - Binary Search
+* [ ] Day 23 - Binary Tree
+* [ ] Day 24 - Binary Tree
+* [ ] Day 25 - Binary Tree
+* [ ] Day 26 - BST
+* [ ] Day 27 - BST
+* [ ] Day 28 - Heap / Priority Queue
+* [ ] Day 29 - Heap / Priority Queue
+* [ ] Day 30 - Graph BFS & DFS
+* [ ] Day 31 - Graph BFS & DFS
+* [ ] Day 32 - Graph BFS & DFS
+* [ ] Day 33 - Trie
+* [ ] Day 34 - Trie
+* [ ] Day 35 - Trie
+* [ ] Day 36 - Sorting
+* [ ] Day 37 - Sorting
+* [ ] Day 38 - Dynamic Programming I
+* [ ] Day 39 - Dynamic Programming I
+* [ ] Day 40 - Dynamic Programming I
+* [ ] Day 41 - DP II (2D)
+* [ ] Day 42 - DP II (2D)
+* [ ] Day 43 - Greedy
+* [ ] Day 44 - Greedy
+* [ ] Day 45 - Backtracking
+* [ ] Day 46 - Graph Advanced
+* [ ] Day 47 - Bit Manipulation
+* [ ] Day 48 - Math & Number Theory
+* [ ] Day 49 - Mixed Review
+* [ ] Day 50 - Mixed Review
+
+---
+
+## ✅ Problems Completed
+
+### Day 01 — Arrays
+
+1. LeetCode 1480 — Running Sum of 1D Array
+2. LeetCode 121 — Best Time to Buy and Sell Stock
+3. LeetCode 1 — Two Sum
+
+### Day 02 — Arrays
+
+1. LeetCode 414 — Third Maximum Number
+2. LeetCode 167 — Two Sum II (Input Array Is Sorted)
+3. LeetCode 643 — Maximum Average Subarray I
+
+---
+
+## 🗺️ 50-Day Roadmap
 
 ### Phase 1 — Foundations (Days 1–10)
 
-- Day 1–2: Arrays
-- Day 3–4: Strings
-- Day 5–6: Hash Maps
-- Day 7–8: Two Pointers
-- Day 9–10: Sliding Window
+* Day 1–2: Arrays
+* Day 3–4: Strings
+* Day 5–6: Hash Maps
+* Day 7–8: Two Pointers
+* Day 9–10: Sliding Window
 
 ### Phase 2 — Linear Data Structures (Days 11–22)
 
-- Day 11–12: Stack
-- Day 13–14: Queue & Deque
-- Day 15–17: Linked List
-- Day 18–19: Recursion
-- Day 20–22: Binary Search
+* Day 11–12: Stack
+* Day 13–14: Queue & Deque
+* Day 15–17: Linked List
+* Day 18–19: Recursion
+* Day 20–22: Binary Search
 
 ### Phase 3 — Trees & Graphs (Days 23–35)
 
-- Day 23–25: Binary Tree
-- Day 26–27: BST
-- Day 28–29: Heap / Priority Queue
-- Day 30–32: Graph BFS & DFS
-- Day 33–35: Trie
+* Day 23–25: Binary Tree
+* Day 26–27: BST
+* Day 28–29: Heap / Priority Queue
+* Day 30–32: Graph BFS & DFS
+* Day 33–35: Trie
 
 ### Phase 4 — Algorithms (Days 36–45)
 
-- Day 36–37: Sorting
-- Day 38–40: Dynamic Programming I
-- Day 41–42: DP II (2D)
-- Day 43–44: Greedy
-- Day 45: Backtracking
+* Day 36–37: Sorting
+* Day 38–40: Dynamic Programming I
+* Day 41–42: DP II (2D)
+* Day 43–44: Greedy
+* Day 45: Backtracking
 
 ### Phase 5 — Advanced & Review (Days 46–50)
 
-- Day 46: Graph Advanced (Dijkstra, Union Find)
-- Day 47: Bit Manipulation
-- Day 48: Math & Number Theory
-- Day 49–50: Mock Interview / Mixed Review
+* Day 46: Graph Advanced (Dijkstra, Union Find)
+* Day 47: Bit Manipulation
+* Day 48: Math & Number Theory
+* Day 49–50: Mock Interview / Mixed Review
 
-## Directories
+---
 
-- `Day-01-Arrays`
-- `Day-02-Arrays`
-- `Day-03-Strings`
-- `Day-04-Strings`
-- `Day-05-Hash-Maps`
-- `Day-06-Hash-Maps`
-- `Day-07-Two-Pointers`
-- `Day-08-Two-Pointers`
-- `Day-09-Sliding-Window`
-- `Day-10-Sliding-Window`
-- `Day-11-Stack`
-- `Day-12-Stack`
-- `Day-13-Queue-Deque`
-- `Day-14-Queue-Deque`
-- `Day-15-Linked-List`
-- `Day-16-Linked-List`
-- `Day-17-Linked-List`
-- `Day-18-Recursion`
-- `Day-19-Recursion`
-- `Day-20-Binary-Search`
-- `Day-21-Binary-Search`
-- `Day-22-Binary-Search`
-- `Day-23-Binary-Tree`
-- `Day-24-Binary-Tree`
-- `Day-25-Binary-Tree`
-- `Day-26-BST`
-- `Day-27-BST`
-- `Day-28-Heap-Priority-Queue`
-- `Day-29-Heap-Priority-Queue`
-- `Day-30-Graph-BFS-DFS`
-- `Day-31-Graph-BFS-DFS`
-- `Day-32-Graph-BFS-DFS`
-- `Day-33-Trie`
-- `Day-34-Trie`
-- `Day-35-Trie`
-- `Day-36-Sorting`
-- `Day-37-Sorting`
-- `Day-38-Dynamic-Programming-I`
-- `Day-39-Dynamic-Programming-I`
-- `Day-40-Dynamic-Programming-I`
-- `Day-41-DP-II-2D`
-- `Day-42-DP-II-2D`
-- `Day-43-Greedy`
-- `Day-44-Greedy`
-- `Day-45-Backtracking`
-- `Day-46-Graph-Advanced`
-- `Day-47-Bit-Manipulation`
-- `Day-48-Math-Number-Theory`
-- `Day-49-Mixed-Review`
-- `Day-50-Mixed-Review`
+## 📂 Repository Structure
+
+Each day contains:
+
+* Problem solutions in C++
+* Optimized approaches
+* Time & Space Complexity
+* Notes and learnings
+
+Example:
+
+Day-01-Arrays/
+├── LC-1480-Running-Sum.cpp
+├── LC-121-Best-Time-to-Buy-and-Sell-Stock.cpp
+└── LC-1-Two-Sum.cpp
+
+Day-02-Arrays/
+├── LC-414-Third-Maximum-Number.cpp
+├── LC-167-Two-Sum-II.cpp
+└── LC-643-Maximum-Average-Subarray-I.cpp
+
+---
+
+### Consistency > Intensity
+
+The objective of this challenge is not just to solve problems, but to build strong fundamentals, recognize patterns, and improve problem-solving skills through daily practice.
