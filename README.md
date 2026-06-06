@@ -23,8 +23,8 @@ This repository contains my solutions and notes for a structured **50-Day Data S
 
 * [x] Day 01 - Arrays
 * [x] Day 02 - Arrays
-* [ ] Day 03 - Strings
-* [ ] Day 04 - Strings
+* [x] Day 03 - Strings
+* [x] Day 04 - Strings
 * [ ] Day 05 - Hash Maps
 * [ ] Day 06 - Hash Maps
 * [ ] Day 07 - Two Pointers
