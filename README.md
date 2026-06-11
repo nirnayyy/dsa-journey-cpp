@@ -26,9 +26,9 @@ This repository contains my solutions and notes for a structured **50-Day Data S
 * [x] Day 03 - Strings
 * [x] Day 04 - Strings
 * [x] Day 05 - Hash Maps
-* [ ] Day 06 - Hash Maps
-* [ ] Day 07 - Two Pointers
-* [ ] Day 08 - Two Pointers
+* [x] Day 06 - Hash Maps
+* [x] Day 07 - Two Pointers
+* [x] Day 08 - Two Pointers
 * [ ] Day 09 - Sliding Window
 * [ ] Day 10 - Sliding Window
 * [ ] Day 11 - Stack
