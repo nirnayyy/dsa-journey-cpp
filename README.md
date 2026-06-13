@@ -31,7 +31,7 @@ This repository contains my solutions and notes for a structured **50-Day Data S
 * [x] Day 08 - Two Pointers
 * [x] Day 09 - Binary-Search
 * [x] Day 10 - Sliding Window
-* [ ] Day 11 - Stack
+* [x] Day 11 - Stack
 * [ ] Day 12 - Stack
 * [ ] Day 13 - Queue & Deque
 * [ ] Day 14 - Queue & Deque
