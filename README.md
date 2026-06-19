@@ -34,8 +34,8 @@ This repository contains my solutions and notes for a structured **50-Day Data S
 * [x] Day 11 - Stack
 * [x] Day 12 - Stack
 * [x] Day 13 - Queue & Deque
-* [ ] Day 14 - Queue & Deque
-* [ ] Day 15 - Linked List
+* [x] Day 14 - Queue & Deque
+* [x] Day 15 - Linked List
 * [ ] Day 16 - Linked List
 * [ ] Day 17 - Linked List
 * [ ] Day 18 - Recursion
