@@ -36,10 +36,10 @@ This repository contains my solutions and notes for a structured **50-Day Data S
 * [x] Day 13 - Queue & Deque
 * [x] Day 14 - Queue & Deque
 * [x] Day 15 - Linked List
-* [ ] Day 16 - Linked List
-* [ ] Day 17 - Linked List
-* [ ] Day 18 - Recursion
-* [ ] Day 19 - Recursion
+* [x] Day 16 - Linked List
+* [x] Day 17 - Linked List
+* [x] Day 18 - Recursion
+* [x] Day 19 - Recursion
 * [ ] Day 20 - Binary Search
 * [ ] Day 21 - Binary Search
 * [ ] Day 22 - Binary Search
